@@ -1,5 +1,8 @@
+#Details on how the service works located in the code as comments
 
-#Internet connectivity to swapi.dev is required for this application to function.  Application grabs data from one of the 6 films provided by swapi.dev.  Takes the title and the openinc_crawl fields to populate the data it returns.
+#Internet connectivity to swapi.dev is required for this application to function.
+#Application grabs data from one of the 6 films provided by swapi.dev.
+#Takes the title and the openinc_crawl fields to populate the data it returns.
 
 #two end points
 /random_crawl
