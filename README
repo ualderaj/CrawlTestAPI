@@ -1,4 +1,6 @@
-#Details on how the service works located in the code as comments
+#Details on how the service works located in the code as comments.
+
+#Code tested with python-3.10.5-amd64
 
 #Internet connectivity to swapi.dev is required for this application to function.
 #Application grabs data from one of the 6 films provided by swapi.dev.
@@ -8,7 +10,7 @@
 /random_crawl
 /random_crawl_reverse
 
-#The following pythons need to installed in addition to python.  See python.org for instructions depending on your OS.
+#The following pythons need to installed in addition to python.  See python.org for instructions on how to install python on your OS.
 pip install Flask
 pip install requests
 
